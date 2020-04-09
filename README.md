@@ -25,4 +25,4 @@
 
 
 
-![image](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200409131516638.png)
+![image](https://github.com/flyingzh/resume/tree/master/image/20200409131516638.png)
